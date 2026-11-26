@@ -1,0 +1,16 @@
+{
+  "project": "Prasiddh Bharat",
+  "data_version": "1.0.0",
+  "generated_at": null,
+  "default_language": "mr",
+  "supported_languages": ["mr", "hi", "en"],
+  "status": "scaffold_only",
+  "published_record_count": 0,
+  "regions": {
+    "ratnagiri": {
+      "status": "not_yet_published",
+      "path": "ratnagiri/"
+    }
+  },
+  "notice": "No public records are published yet. Do not treat this manifest as a source of current office-holder information."
+}
