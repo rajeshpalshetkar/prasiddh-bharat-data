@@ -1,16 +1,21 @@
 {
   "project": "Prasiddh Bharat",
   "data_version": "1.0.0",
-  "generated_at": null,
+  "generated_at": "2026-11-27T15:08:32Z",
   "default_language": "mr",
-  "supported_languages": ["mr", "hi", "en"],
-  "status": "scaffold_only",
-  "published_record_count": 0,
+  "supported_languages": [
+    "mr",
+    "hi",
+    "en"
+  ],
+  "status": "published",
+  "published_record_count": 168,
   "regions": {
     "ratnagiri": {
-      "status": "not_yet_published",
-      "path": "ratnagiri/"
+      "status": "published",
+      "path": "data/ratnagiri/records.json",
+      "record_count": 168
     }
   },
-  "notice": "No public records are published yet. Do not treat this manifest as a source of current office-holder information."
+  "notice": "This public dataset contains only approved records. Internal review notes, pending records, rejected records and audit logs are not published."
 }
