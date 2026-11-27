@@ -1,16 +1,22 @@
 # Prasiddh Bharat — Public Data
 
-This repository contains reviewed, public information used by the Prasiddh Bharat Android app.
+This repository contains reviewed, approved public information used by Prasiddh Bharat applications and the public portal.
 
-## Publishing rules
-- Only human-reviewed and approved records belong here.
-- Every record must retain source name, source URL and fetched timestamp.
-- Do not publish credentials, private personal contact details or sensitive personal data.
-- Keep long-lived reference information separate from any future short-lived news feed.
-- Changes should use clear commit messages and preserve record validity/history.
+## Ratnagiri district dataset
 
-## Current status
-The repository scaffold is ready. No directory records have been published yet. Data will be added after source verification in the private `prasiddh-bharat-engine` repository.
+- Public JSON: `data/ratnagiri/records.json`
+- Published records: 168 approved records
+- Dataset status: approved records only
+- Every record includes its official source name, source URL, fetched timestamp and verification timestamp where available.
+
+## Publishing and privacy rules
+
+- Only human-reviewed and approved records are published.
+- Pending, rejected, needs-correction, inactive and superseded records are excluded.
+- Internal review notes, reviewer details, audit logs and source-monitoring queues are never published.
+- Personal mobile numbers are not published unless explicitly verified as official public contact channels. Redacted values remain redacted.
+- Changes should use clear commit messages and preserve source attribution.
 
 ## Data contract
-The canonical record structure is maintained in the private engine repository at `schemas/record.schema.json`. The public files will contain only approved records compatible with that schema.
+
+The canonical record structure is maintained in the private `prasiddh-bharat-engine` repository. Public records are transformed to remove internal review metadata before publication.
