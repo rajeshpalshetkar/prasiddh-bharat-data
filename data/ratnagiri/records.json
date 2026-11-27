@@ -1,0 +1,5388 @@
+{
+  "project": "Prasiddh Bharat",
+  "dataset": "ratnagiri_approved_public_directory",
+  "generated_at": "2026-11-27T15:08:32Z",
+  "district": "Ratnagiri",
+  "state": "Maharashtra",
+  "country": "IN",
+  "record_count": 168,
+  "review_status": "approved_only",
+  "records": [
+    {
+      "record_id": "ratnagiri.ratnagiri_who_is_who.1171576935e347de",
+      "entity_type": "official_directory_entry",
+      "name": "Shri. Manuj Jindal",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Who’s Who",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone",
+          "Email",
+          "Address"
+        ],
+        "values": [
+          "Shri. Manuj Jindal",
+          "District Collector",
+          "02352-222301",
+          "collector[dot]ratnagiri[at]maharashtra[dot]gov[dot]in",
+          "Collector Office, Jaystambh, Ratnagiri -415612"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/about-district/whos-who/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-26T03:25:09+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_who_is_who.d73f8da3fd599ec6",
+      "entity_type": "official_directory_entry",
+      "name": "Shri Vishwajit Gatade",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Who’s Who",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone",
+          "Email",
+          "Address"
+        ],
+        "values": [
+          "Shri Vishwajit Gatade",
+          "Sub-divisional Officer Rajapur",
+          "02353-232519",
+          "sdo_rajapur[at]rediffmail[dot]com",
+          "Sub-divisional Office Rajapur"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/about-district/whos-who/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-26T03:45:49+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_who_is_who.37ca8f087a37a71f",
+      "entity_type": "official_directory_entry",
+      "name": "Dr Vijay Suryavanshi",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Who’s Who",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone",
+          "Email",
+          "Address"
+        ],
+        "values": [
+          "Dr Vijay Suryavanshi",
+          "Sub-divisional Officer Dapoli",
+          "02358-282031",
+          "sdo_dapoli[at]rediffmail[dot]com",
+          "Sub-divisional Office Dapoli"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/about-district/whos-who/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:57+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_who_is_who.edfcacee3975284d",
+      "entity_type": "official_directory_entry",
+      "name": "Shri Aakash Ligade",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Who’s Who",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone",
+          "Email",
+          "Address"
+        ],
+        "values": [
+          "Shri Aakash Ligade",
+          "Sub-divisional Officer Chiplun",
+          "02355-252046",
+          "sdo_chiplun[at]rediffmail[dot]com",
+          "Sub divisional Office Chiplun"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/about-district/whos-who/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:57+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_who_is_who.5a0a2f2cf1e913a7",
+      "entity_type": "official_directory_entry",
+      "name": "Shrimati Vaishali Patil",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Who’s Who",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone",
+          "Email",
+          "Address"
+        ],
+        "values": [
+          "Shrimati Vaishali Patil",
+          "Sub-divisional Officer Khed",
+          "02356-264888",
+          "sdo_khed[at]rediffmail[dot]com",
+          "Sub-divisional Office Khed"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/about-district/whos-who/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:57+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_who_is_who.f5482ddda5f1eda8",
+      "entity_type": "official_directory_entry",
+      "name": "Shri Jivan Desai",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Who’s Who",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone",
+          "Email",
+          "Address"
+        ],
+        "values": [
+          "Shri Jivan Desai",
+          "Sub-Divisional Officer Ratnagiri",
+          "02352-222422",
+          "sdo_ratnagiri[at]rediffmail[dot]com",
+          "Collector Office Compound Ratnagiri"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/about-district/whos-who/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:57+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_who_is_who.02c318601542eabd",
+      "entity_type": "official_directory_entry",
+      "name": "Shri. Sudhir Sonawane",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Who’s Who",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone",
+          "Email",
+          "Address"
+        ],
+        "values": [
+          "Shri. Sudhir Sonawane",
+          "Tehsildar Khed",
+          "02356-263031",
+          "tah_khed[at]rediffmail[dot]com",
+          "Khed Tehsil Office, Khed, Ratnagiri"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/about-district/whos-who/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:57+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_who_is_who.1ca12c1bc3012c79",
+      "entity_type": "official_directory_entry",
+      "name": "Shrimati Archana Bombe",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Who’s Who",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone",
+          "Email",
+          "Address"
+        ],
+        "values": [
+          "Shrimati Archana Bombe",
+          "Tehsildar Dapoli",
+          "02358-282036",
+          "taha[dot]dapoli[at]gmail[dot]com",
+          "Tahsildar Office, Dapoli, District Ratnagiri"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/about-district/whos-who/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:57+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_who_is_who.d178b504eecb44e4",
+      "entity_type": "official_directory_entry",
+      "name": "Shri. Parikshit Patil",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Who’s Who",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone",
+          "Email",
+          "Address"
+        ],
+        "values": [
+          "Shri. Parikshit Patil",
+          "Tehsildar Guhagar",
+          "02359-240237",
+          "tah_guhagar[at]rediffmail[dot]com",
+          "Tahsildar Compound, Guhagar, Ratnagiri"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/about-district/whos-who/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:57+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_who_is_who.8d3557ea39602c82",
+      "entity_type": "official_directory_entry",
+      "name": "Shri. Akshay Dhakne",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Who’s Who",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone",
+          "Email",
+          "Address"
+        ],
+        "values": [
+          "Shri. Akshay Dhakne",
+          "Tehsildar Mandangad",
+          "02350-225236",
+          "tah_mandangad[at]rediffmail[dot]com",
+          "Mandangad City, Mandangad, Ratnagiri"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/about-district/whos-who/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:57+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_who_is_who.6130eaff892eda11",
+      "entity_type": "official_directory_entry",
+      "name": "Shri Nitin Bagate",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Who’s Who",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone",
+          "Email",
+          "Address"
+        ],
+        "values": [
+          "Shri Nitin Bagate",
+          "Superintendent of Police",
+          "02352-222222",
+          "sp[dot]ratnagiri[at]mahapolice[dot]gov[dot]in",
+          "Jail Road Ratnagiri-415612"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/about-district/whos-who/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:57+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_who_is_who.8b1d9f53598d8fa5",
+      "entity_type": "official_directory_entry",
+      "name": "Shrimati Vaidehi Ranade",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Who’s Who",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone",
+          "Email",
+          "Address"
+        ],
+        "values": [
+          "Shrimati Vaidehi Ranade",
+          "Cheif Executive Officer",
+          "02352-350700",
+          "ceozprtg[at]gmail[dot]com",
+          "Dr. Babasaheb Ambedkar Bhavan, Malnaka Ratnagiri"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/about-district/whos-who/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:57+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_who_is_who.d11f914f8cc36cc4",
+      "entity_type": "official_directory_entry",
+      "name": "Shri. Bhaskar Jagtap",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Who’s Who",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone",
+          "Email",
+          "Address"
+        ],
+        "values": [
+          "Shri. Bhaskar Jagtap",
+          "Civil Surgeon",
+          "02352-222363",
+          "cs_ratnagiri[at]rediffmail[dot]com",
+          "Jaistambh, Ratnagiri"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/about-district/whos-who/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:57+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_who_is_who.ac209e2e0ad37fad",
+      "entity_type": "official_directory_entry",
+      "name": "Shri Shivkumar Sadafule",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Who’s Who",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone",
+          "Email",
+          "Address"
+        ],
+        "values": [
+          "Shri Shivkumar Sadafule",
+          "District Superintendent Agriculture Officer Ratnagiri",
+          "02352-222491",
+          "dsaortn[at]rediffmail[dot]com",
+          "Krushi Bhavan, MIDC Mirjole, Ratangiri"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/about-district/whos-who/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:57+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.5990417e5db2e6ff",
+      "entity_type": "official_directory_entry",
+      "name": "COLLECTOR & DISTRICT MAGISTRATE",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "COLLECTOR & DISTRICT MAGISTRATE",
+          "02352-222301"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.b98dd7ebe7bbaece",
+      "entity_type": "official_directory_entry",
+      "name": "RESIDENT DY. COLLECTOR",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "RESIDENT DY. COLLECTOR",
+          "91-2352-223573"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.0d963fe09b6ac30b",
+      "entity_type": "official_directory_entry",
+      "name": "TAHSILDAR - RAJAPUR",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "TAHSILDAR - RAJAPUR",
+          "91-2353-222027"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.b5c97d92ba2842fe",
+      "entity_type": "official_directory_entry",
+      "name": "TAHSILDAR - LANJA",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "TAHSILDAR - LANJA",
+          "91-2351-230024"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.48e01f369aa4bc4e",
+      "entity_type": "official_directory_entry",
+      "name": "TAHSILDAR - SANGMESHWAR",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "TAHSILDAR - SANGMESHWAR",
+          "91-2354-240024"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.d5eae32a1a758624",
+      "entity_type": "official_directory_entry",
+      "name": "TAHSILDAR - GHUHAGHAR",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "TAHSILDAR - GHUHAGHAR",
+          "91-2359-240237"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.c6fd359dce32573c",
+      "entity_type": "official_directory_entry",
+      "name": "TAHSILDAR - KHED",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "TAHSILDAR - KHED",
+          "91-2356-262031"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.2606683b7a55cd27",
+      "entity_type": "official_directory_entry",
+      "name": "TAHSILDAR - MANDANGAD",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "TAHSILDAR - MANDANGAD",
+          "91-2350-225236"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.2dcb2d19d73129fe",
+      "entity_type": "official_directory_entry",
+      "name": "TAHSILDAR - DAPOLI",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "TAHSILDAR - DAPOLI",
+          "91-2358-282036"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.748f840c6b5bb871",
+      "entity_type": "official_directory_entry",
+      "name": "TAHSILDAR - CHIPLUN",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "TAHSILDAR - CHIPLUN",
+          "91-2355-252044"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.13a846585cf7690a",
+      "entity_type": "official_directory_entry",
+      "name": "SUPERINTENDENT OF POLICE [SP]",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "SUPERINTENDENT OF POLICE [SP]",
+          "91-2352-225077"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.ed5687debdcf5537",
+      "entity_type": "official_directory_entry",
+      "name": "CONTROL ROOM - POLICE HQ., RATNAGIRI",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "CONTROL ROOM - POLICE HQ., RATNAGIRI",
+          "91-2352-222222"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.b002a44fb094afc7",
+      "entity_type": "official_directory_entry",
+      "name": "CIVIL SURGEON",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "CIVIL SURGEON",
+          "91-2352-222363"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.8f48b54bdadb0e84",
+      "entity_type": "official_directory_entry",
+      "name": "RESIDENT MEDICAL OFFICER",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "RESIDENT MEDICAL OFFICER",
+          "91-2352-222106"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.1aee2e1d8fac109d",
+      "entity_type": "official_directory_entry",
+      "name": "SUPERINTENDENT REGIONAL MENTAL HOSPITAL",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "SUPERINTENDENT REGIONAL MENTAL HOSPITAL",
+          "91-2352-222345"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.b3b101497869397f",
+      "entity_type": "official_directory_entry",
+      "name": "PORT OFFICER",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "PORT OFFICER",
+          "91-2352-222160"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.a7e0e336662337ee",
+      "entity_type": "official_directory_entry",
+      "name": "SUPERINTENDING ENGINEER MSEB",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "SUPERINTENDING ENGINEER MSEB",
+          "91-2352-220363"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.404b0b07cb71362e",
+      "entity_type": "official_directory_entry",
+      "name": "BSNL GM",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "BSNL GM",
+          "91-2352-221444"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.b1c0773cae19a86c",
+      "entity_type": "official_directory_entry",
+      "name": "CHIEF EXECUTIVE OFFICER [CEO]",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "CHIEF EXECUTIVE OFFICER [CEO]",
+          "91-2352-222386"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.8c59d3bbd3e898bd",
+      "entity_type": "official_directory_entry",
+      "name": "DISTRICT HEALTH OFFICER [DHO]",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "DISTRICT HEALTH OFFICER [DHO]",
+          "91-2352-221403"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.e0065dd537f4540d",
+      "entity_type": "official_directory_entry",
+      "name": "BDO - RAJAPUR",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "BDO - RAJAPUR",
+          "91-2353-222031"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.e9e14980272e829a",
+      "entity_type": "official_directory_entry",
+      "name": "BDO - KHED",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "BDO - KHED",
+          "91-2356-263052"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.5a7946a796d098d5",
+      "entity_type": "official_directory_entry",
+      "name": "BDO - LANJA",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "BDO - LANJA",
+          "91-2351-230027"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.e132c893ad4c560c",
+      "entity_type": "official_directory_entry",
+      "name": "BDO - SANGMESHWAR",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "BDO - SANGMESHWAR",
+          "91-2354-240028"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.3497f04bfb266213",
+      "entity_type": "official_directory_entry",
+      "name": "BDO - CHIPLUN",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "BDO - CHIPLUN",
+          "91-2355-252028"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.107a0474d69d5c70",
+      "entity_type": "official_directory_entry",
+      "name": "BDO - MANDANGAD",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "BDO - MANDANGAD",
+          "91-2350-225228"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.23a114a6ae53281f",
+      "entity_type": "official_directory_entry",
+      "name": "BDO - DAPOLI",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "BDO - DAPOLI",
+          "91-2358-282028"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_directory.4f59f13b7dabb9f4",
+      "entity_type": "official_directory_entry",
+      "name": "BDO - GHUHAGHAR",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "public_offices",
+      "details": {
+        "page_title": "Directory",
+        "headers": [
+          "Designation",
+          "Landline No"
+        ],
+        "values": [
+          "BDO - GHUHAGHAR",
+          "91-2359-240225"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/directory/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:47:10+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.1834645bcb0f10ba",
+      "entity_type": "official_directory_entry",
+      "name": "अपर जिल्हाधिकारी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "अपर जिल्हाधिकारी",
+          "श्री.भाऊ गलांडे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.3bde8a317e5941ec",
+      "entity_type": "official_directory_entry",
+      "name": "निवासी उपजिल्हाधिकारी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "निवासी उपजिल्हाधिकारी",
+          "श्री. चंद्रकांत सुर्यवंशी",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.dba634ce529c6afa",
+      "entity_type": "official_directory_entry",
+      "name": "उपजिल्हाधिकारी (सामान्य)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपजिल्हाधिकारी (सामान्य)",
+          "प्र. श्री. चंद्रकांत सुर्यवंशी",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.919246154f49ee41",
+      "entity_type": "official_directory_entry",
+      "name": "उपजिल्हा निवडणूक अधिकारी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपजिल्हा निवडणूक अधिकारी",
+          "श्री.राहुल गायकवाड",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.0d67081dca4c0967",
+      "entity_type": "official_directory_entry",
+      "name": "उपजिल्हाधिकारी पुनर्वसन",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपजिल्हाधिकारी पुनर्वसन",
+          "श्री. मारुती बोरकर",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.0e2b15f8a36b3caf",
+      "entity_type": "official_directory_entry",
+      "name": "उपजिल्हाधिकारी भूसंपादन समन्वय शाखा",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपजिल्हाधिकारी भूसंपादन समन्वय शाखा",
+          "श्री. जीवन देसाई",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.c725069505c89e63",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा पुरवठा अधिकारी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा पुरवठा अधिकारी",
+          "प्र. श्रीम. रोहिणी रजपूत",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.25f365d52689011b",
+      "entity_type": "official_directory_entry",
+      "name": "उपजिल्हाधिकारी (रो.ह.यो)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपजिल्हाधिकारी (रो.ह.यो)",
+          "श्रीम. हर्षलता गेडाम",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.6e2994153a963136",
+      "entity_type": "official_directory_entry",
+      "name": "उपजिल्हाधिकारी भूसंपादन",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपजिल्हाधिकारी भूसंपादन",
+          "श्रीम.निशाताई कांबळे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.6d16792ea780952d",
+      "entity_type": "official_directory_entry",
+      "name": "उपजिल्हाधिकारी भूसंपादन कोकण रेल्वे 1",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपजिल्हाधिकारी भूसंपादन कोकण रेल्वे 1",
+          "श्रीम. रोहिणी रजपूत",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.22cb69eee9ead6b9",
+      "entity_type": "official_directory_entry",
+      "name": "तहसीलदार (महसूल)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "तहसीलदार (महसूल)",
+          "श्रीम. आसावरी संसारे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.709093225687ebfd",
+      "entity_type": "official_directory_entry",
+      "name": "सहाय्यक जिल्हा पुरवठा अधिकारी, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "सहाय्यक जिल्हा पुरवठा अधिकारी, रत्नागिरी",
+          "श्री. नितीन वाघ",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.70553dabbec0bd50",
+      "entity_type": "official_directory_entry",
+      "name": "खनिकर्म अधिकारी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "खनिकर्म अधिकारी",
+          "श्रीम. भाग्यश्री जोशी",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.0e1ff46bc8079c01",
+      "entity_type": "official_directory_entry",
+      "name": "प्र. सहआयुक्त (नपाप्र)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "प्र. सहआयुक्त (नपाप्र)",
+          "श्री. तुषार बाबर",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.90fe5eef3e446e27",
+      "entity_type": "official_directory_entry",
+      "name": "प्र. जिल्हा नियोजन अधिकारी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "प्र. जिल्हा नियोजन अधिकारी",
+          "श्री. अमर पाटील",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.8da9aeed4d3fbcad",
+      "entity_type": "official_directory_entry",
+      "name": "सहाय्यक जिल्हा नियोजन अधिकारी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "सहाय्यक जिल्हा नियोजन अधिकारी",
+          "श्री. अमर पाटील",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.06ee9283a06744b4",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा सूचना विज्ञान अधिकारी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा सूचना विज्ञान अधिकारी",
+          "श्री. शाहीद पीरजादे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.82474f19a2a5e832",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा आपत्ती व्यवस्थापन अधिकारी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा आपत्ती व्यवस्थापन अधिकारी",
+          "श्री.अजय सुर्यवंशी",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.83772dc8c8669c67",
+      "entity_type": "official_directory_entry",
+      "name": "लेखाधिकारी लेखा शाखा",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "लेखाधिकारी लेखा शाखा",
+          "श्री.संदिप राजेशिर्के",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.61f2acdfc8bf5065",
+      "entity_type": "official_directory_entry",
+      "name": "विधी अधिकारी (law officer)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "विधी अधिकारी (law officer)",
+          "श्रीम. तेजश्री जाधव",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.f954dfec848980be",
+      "entity_type": "official_directory_entry",
+      "name": "मुख्य कार्यकारी अधिकारी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "मुख्य कार्यकारी अधिकारी",
+          "श्रीम.वैद्येही रानडे,भाप्रसे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.d448a0c3c9a3b179",
+      "entity_type": "official_directory_entry",
+      "name": "अति.मुख्य कार्य. अधिकारी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "अति.मुख्य कार्य. अधिकारी",
+          "श्री. परिक्षीत यादव",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.3e5bd96bcb43ced2",
+      "entity_type": "official_directory_entry",
+      "name": "पोलीस अधिक्षक रत्नागिरी (Supritendent of Police)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "पोलीस अधिक्षक रत्नागिरी (Supritendent of Police)",
+          "श्री. नितीन दत्तात्रय बगाटे भा.पो.से",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.8f695591bb97d0a8",
+      "entity_type": "official_directory_entry",
+      "name": "अपर पोलीस अधिक्षक रत्नागिरी (Add. SP)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "अपर पोलीस अधिक्षक रत्नागिरी (Add. SP)",
+          "श्री. बी.बी.महामुनी",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.579dc113c0b238a4",
+      "entity_type": "official_directory_entry",
+      "name": "उपविभागीय अधिकारी रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपविभागीय अधिकारी रत्नागिरी",
+          "श्री.जीवन देसाई",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.a3e75f8cf49e6d3d",
+      "entity_type": "official_directory_entry",
+      "name": "उपविभागीय अधिकारी चिपळूण",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपविभागीय अधिकारी चिपळूण",
+          "श्री. आकाश लिगाडे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.648b4a0c4e5b36f4",
+      "entity_type": "official_directory_entry",
+      "name": "उपविभागीय अधिकारी दापोली",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपविभागीय अधिकारी दापोली",
+          "डॉ.विजय सुर्यवंशी",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.9105e5ddc3d96eca",
+      "entity_type": "official_directory_entry",
+      "name": "उपविभागीय अधिकारी राजापूर",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपविभागीय अधिकारी राजापूर",
+          "श्रीम. जास्मिन भाप्रसे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.975bf2525f22c959",
+      "entity_type": "official_directory_entry",
+      "name": "उपविभागीय अधिकारी खेड",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपविभागीय अधिकारी खेड",
+          "श्रीम. वैशाली पाटील",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.5e7121730f77a10e",
+      "entity_type": "official_directory_entry",
+      "name": "तहसीलदार रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "तहसीलदार रत्नागिरी",
+          "श्री. राजाराम म्हात्रे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.308c9eb58fa180db",
+      "entity_type": "official_directory_entry",
+      "name": "तहसीलदार लांजा",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "तहसीलदार लांजा",
+          "श्रीम. प्रियांका ढोले",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.a9b29db6e93d0cbc",
+      "entity_type": "official_directory_entry",
+      "name": "तहसीलदार राजापूर",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "तहसीलदार राजापूर",
+          "श्री. विकास लक्ष्मण गंबरे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.ebc33e34378ba5ce",
+      "entity_type": "official_directory_entry",
+      "name": "तहसीलदार संगमेश्वर",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "तहसीलदार संगमेश्वर",
+          "श्रीम. अमृता साबळे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.fa25aa7bca7b722d",
+      "entity_type": "official_directory_entry",
+      "name": "तहसीलदार चिपळूण",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "तहसीलदार चिपळूण",
+          "श्री. प्रविण लोकरे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.19ca66a423ed6b3b",
+      "entity_type": "official_directory_entry",
+      "name": "तहसीलदार खेड",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "तहसीलदार खेड",
+          "श्री. सुधीर सोनावणे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.11e98c69121d6c65",
+      "entity_type": "official_directory_entry",
+      "name": "तहसीलदार दापोली",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "तहसीलदार दापोली",
+          "श्रीम. अर्चना बोंबे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.5e8c861f941b7604",
+      "entity_type": "official_directory_entry",
+      "name": "तहसीलदार गुहागर",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "तहसीलदार गुहागर",
+          "श्री.परिक्षीत पाटील",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.71bef6c258a8ba82",
+      "entity_type": "official_directory_entry",
+      "name": "तहसीलदार मंडणगड",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "तहसीलदार मंडणगड",
+          "श्री. अक्षय अशोक ढाकणे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.8a2dc373c0e05e1f",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा माहिती अधिकारी (District Information Officer)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा माहिती अधिकारी (District Information Officer)",
+          "श्री. प्रशांत सातपुते",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.a3cc6e585acfccd3",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा कोषागार अधिकारी (Treasury), रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा कोषागार अधिकारी (Treasury), रत्नागिरी",
+          "श्री. प्रविण बिराजदार",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.4ac9fb26abe43eb6",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा सांख्य‍िकी अधिकारी (District Statistics Officer)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा सांख्य‍िकी अधिकारी (District Statistics Officer)",
+          "श्री. निवास यादव",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.d46e22b6f87a21b0",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा क्रीडा अधिकारी (Sport Office), रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा क्रीडा अधिकारी (Sport Office), रत्नागिरी",
+          "श्री. विजय शिंदे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.838280e122031acc",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा कृषि अधिक्षक रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा कृषि अधिक्षक रत्नागिरी",
+          "श्री. शिवकुमार सदाफुले",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.1dab1e861678dca8",
+      "entity_type": "official_directory_entry",
+      "name": "प्रकल्प संचालक, आत्मा",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "प्रकल्प संचालक, आत्मा",
+          "श्री. विजय बेटीवार",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.9b66c6a2f470c9a4",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा अधिक्षक भूमि अभिलेख रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा अधिक्षक भूमि अभिलेख रत्नागिरी",
+          "श्री. सचिन इंगळी",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.31a4256b308c4d1b",
+      "entity_type": "official_directory_entry",
+      "name": "सहाय्यक आयुक्त, समाज कल्याण, रत्नागिरी (ACSWO)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "सहाय्यक आयुक्त, समाज कल्याण, रत्नागिरी (ACSWO)",
+          "श्री. संतोष घाटे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.55989208c7e8d068",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा अधिक्षक कृषि अधिकारी, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा अधिक्षक कृषि अधिकारी, रत्नागिरी",
+          "श्री. शिवकुमार सदाफुले",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.2a153f5ee7cf6391",
+      "entity_type": "official_directory_entry",
+      "name": "प्रकल्प संचालक, आत्मा, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "प्रकल्प संचालक, आत्मा, रत्नागिरी",
+          "श्री. विजय वेटीवार",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.6eeb0941f2fc2103",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा अधिक्षक भूमि अभिलेख, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा अधिक्षक भूमि अभिलेख, रत्नागिरी",
+          "श्री. सचिन इंगळी",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.00492828bc40aa87",
+      "entity_type": "official_directory_entry",
+      "name": "महाराष्ट्र पर्यटन विकास महामंडळ, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "महाराष्ट्र पर्यटन विकास महामंडळ, रत्नागिरी",
+          "श्री. दिपक माने",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.02a350847cc385e2",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा सैनिक कल्याण अधिकारी (Sainik Kalyan)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा सैनिक कल्याण अधिकारी (Sainik Kalyan)",
+          "प्र. श्री. प्रविण बिराजदार",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.5684a40517a1ba79",
+      "entity_type": "official_directory_entry",
+      "name": "विभाग नियंत्रक, महाराष्ट्र राज्य परिवहन महामंडळ (ST office)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "विभाग नियंत्रक, महाराष्ट्र राज्य परिवहन महामंडळ (ST office)",
+          "श्री. अक्षय बोरसे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.278ea655308c8c96",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा राज्य उत्पादन शुल्क अधिकारी (EXCISE)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा राज्य उत्पादन शुल्क अधिकारी (EXCISE)",
+          "श्रीम. किर्ती शेडगे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.5493c7f483407543",
+      "entity_type": "official_directory_entry",
+      "name": "महाव्यवस्थापक जिल्हा उद्योग केंद्र (DIC)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "महाव्यवस्थापक जिल्हा उद्योग केंद्र (DIC)",
+          "श्री. अजिंक्य आजगेकर",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.56de5638fdf6dc65",
+      "entity_type": "official_directory_entry",
+      "name": "नगररचनाकार (Town Planning)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "नगररचनाकार (Town Planning)",
+          "श्रीम. स्म‍िता कलकुटकी",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.c841ab79d0f2d515",
+      "entity_type": "official_directory_entry",
+      "name": "नगर भूमापन अधिकारी, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "नगर भूमापन अधिकारी, रत्नागिरी",
+          "श्रीम. काळे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.61ec3fc4b54388b6",
+      "entity_type": "official_directory_entry",
+      "name": "उपप्रादेशिक परिवहन अधिकारी, RTO",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपप्रादेशिक परिवहन अधिकारी, RTO",
+          "श्री. राजवर्धन करपे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.e433471990080a65",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा पशुसर्वंधन उपआयुक्त रत्नागिरी, मुख्यालय चिपळूण",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा पशुसर्वंधन उपआयुक्त रत्नागिरी, मुख्यालय चिपळूण",
+          "श्री. दत्तात्रय सोनावले",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.218867c0cd083789",
+      "entity_type": "official_directory_entry",
+      "name": "विभागीय वन अधिकारी, चिपळूण (Forest)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "विभागीय वन अधिकारी, चिपळूण (Forest)",
+          "प्र. श्रीम. गिरीजा देसाई",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.5d39aa56a94cf033",
+      "entity_type": "official_directory_entry",
+      "name": "उपसंचालक, सामाजिक वनीकरण, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपसंचालक, सामाजिक वनीकरण, रत्नागिरी",
+          "श्री. रणजीत गायकवाड",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.e97f1bcd3bf509f5",
+      "entity_type": "official_directory_entry",
+      "name": "लिड बॅक मॅनेजर (LDM)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "लिड बॅक मॅनेजर (LDM)",
+          "श्री. दर्शन कानसे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.a86749a1a6c62f1c",
+      "entity_type": "official_directory_entry",
+      "name": "सहाय्यक आयुक्त जिल्हा कैशल्य विकास,रोजगार,उद्दोजकता मार्गदर्शन केंद्र (Skill)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "सहाय्यक आयुक्त जिल्हा कैशल्य विकास,रोजगार,उद्दोजकता मार्गदर्शन केंद्र (Skill)",
+          "प्र. श्री. मोरेश्वर दुधाळ",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.e9626e953a86c489",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा उपनिबंधक सहकारी संस्था. (DDR)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा उपनिबंधक सहकारी संस्था. (DDR)",
+          "डॉ. सोपान शिंदे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.95480f26bd89b971",
+      "entity_type": "official_directory_entry",
+      "name": "सह जिल्हा निबंधक मुद्रांक (JDR)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "सह जिल्हा निबंधक मुद्रांक (JDR)",
+          "प्र.श्री. श्रीकांत सोनावणे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.80bfe8b3270b95ae",
+      "entity_type": "official_directory_entry",
+      "name": "सहा. संचालक,मत्स्यव्यवसाय (Fisheries)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "सहा. संचालक,मत्स्यव्यवसाय (Fisheries)",
+          "श्री. सागर कुवेसकर",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.1fb56cab64dbfcfe",
+      "entity_type": "official_directory_entry",
+      "name": "सहा.कामगार आयुक्त रत्नागिरी (Labour)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "सहा.कामगार आयुक्त रत्नागिरी (Labour)",
+          "श्री. संदेश आयरे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.95ff7874a4ef4d37",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा खादी ग्रामोद्योग अधिकारी (DVIO)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा खादी ग्रामोद्योग अधिकारी (DVIO)",
+          "श्री. अमित इंदुलकर",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.8cd026e5a61cb453",
+      "entity_type": "official_directory_entry",
+      "name": "ग्रंथपाल (शासकीय विभागीय ग्रंथालय रत्नागिरी) टिळक भवन",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "ग्रंथपाल (शासकीय विभागीय ग्रंथालय रत्नागिरी) टिळक भवन",
+          "श्री. दिपक झोडगे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.b70dae9c1eb6760d",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा ग्रंथालय अधिकारी, कुवारबांव",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा ग्रंथालय अधिकारी, कुवारबांव",
+          "श्री. शशांक नाईक",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.f1c9ab01203814a4",
+      "entity_type": "official_directory_entry",
+      "name": "सहाय्यक संचालक पुरातत्व विभाग, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "सहाय्यक संचालक पुरातत्व विभाग, रत्नागिरी",
+          "श्री. विलास वहाने",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.0ae9a9eafbd0d878",
+      "entity_type": "official_directory_entry",
+      "name": "सहाय्यक आयुक्त, जिल्हा अन्न प्रशासन",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "सहाय्यक आयुक्त, जिल्हा अन्न प्रशासन",
+          "प्र. श्री. नितीन मोहिते",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.22e4429044df5f54",
+      "entity_type": "official_directory_entry",
+      "name": "सहाय्यक आयुक्त, जिल्हा औषध प्रशासन",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "सहाय्यक आयुक्त, जिल्हा औषध प्रशासन",
+          "श्री. एस.पी. यादव",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.d9808c8eca79b060",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा महिला बाल विकास अधिकारी, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा महिला बाल विकास अधिकारी, रत्नागिरी",
+          "श्री. मनोज पाटणकर",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.37ea19954d1e4536",
+      "entity_type": "official_directory_entry",
+      "name": "उपप्रादेशिक अधिकारी, प्रदुषण नियंत्रण मंडळ चिपळूण (MPCB)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपप्रादेशिक अधिकारी, प्रदुषण नियंत्रण मंडळ चिपळूण (MPCB)",
+          "श्री. श्रीपाद कुलकर्णी",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.62b961992410bddc",
+      "entity_type": "official_directory_entry",
+      "name": "उपप्रादेशिक अधिकारी, प्रदुषण नियंत्रण मंडळ रत्नागिरी (MPCB)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपप्रादेशिक अधिकारी, प्रदुषण नियंत्रण मंडळ रत्नागिरी (MPCB)",
+          "प्र. श्री. रेदासनी",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.012d0335945dadec",
+      "entity_type": "official_directory_entry",
+      "name": "महाव्यवस्थापक, भारत संचार निगम लिमिटेड (BSNL)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "महाव्यवस्थापक, भारत संचार निगम लिमिटेड (BSNL)",
+          "श्रीम. अमृता लेले",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.c29f0dd0f07d94ec",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा दुग्ध व्यवसाय विकास अधिकारी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा दुग्ध व्यवसाय विकास अधिकारी",
+          "श्री. अशोकराव यशवंत",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.bfbef1d4532c5f3f",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा औद्योगिक शिक्षण व प्रशिक्षण संस्था रत्नागिरी DIET प्राचार्य",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा औद्योगिक शिक्षण व प्रशिक्षण संस्था रत्नागिरी DIET प्राचार्य",
+          "श्रीम. नीता कांबळे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.b52d36e69f9f48f1",
+      "entity_type": "official_directory_entry",
+      "name": "सहाय्यक नियंत्रक, वैधमापन शास्त्र(वजने व मापे)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "सहाय्यक नियंत्रक, वैधमापन शास्त्र(वजने व मापे)",
+          "श्री. सु.रा. जोर्वेकर",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.258bf347a9e5df2e",
+      "entity_type": "official_directory_entry",
+      "name": "वरिष्ठ भू-वैज्ञानिक रत्नागिरी GSDA",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "वरिष्ठ भू-वैज्ञानिक रत्नागिरी GSDA",
+          "श्री. विजय सोळंकी",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.672a55b2c3c04aae",
+      "entity_type": "official_directory_entry",
+      "name": "सहाय्यक आयुक्त, कस्टम रत्नागिरी (Custom)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "सहाय्यक आयुक्त, कस्टम रत्नागिरी (Custom)",
+          "श्री. संदिप कृष्णन",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.7938e66a33f43f81",
+      "entity_type": "official_directory_entry",
+      "name": "उपमहाव्यवस्थापक. महाराष्ट्र कोकण विभाग पणन महामंडळ",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपमहाव्यवस्थापक. महाराष्ट्र कोकण विभाग पणन महामंडळ",
+          "श्री. मिलींद जोशी",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.41002e24d00bda4c",
+      "entity_type": "official_directory_entry",
+      "name": "मा. कुलगुरू, कोकण कृषि विद्यापीठ दापोली",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "मा. कुलगुरू, कोकण कृषि विद्यापीठ दापोली",
+          "डॉ. संजय भावे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.7689223556551e6b",
+      "entity_type": "official_directory_entry",
+      "name": "प्रबंधक, कोकण कृषि विद्यापीठ दापोली",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "प्रबंधक, कोकण कृषि विद्यापीठ दापोली",
+          "डॉ. प्रदीप हळदणकर",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.7851eb4e10688d57",
+      "entity_type": "official_directory_entry",
+      "name": "अधिक्षक, विशेष कारागृह रत्नागिरी (Jail)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "अधिक्षक, विशेष कारागृह रत्नागिरी (Jail)",
+          "श्री. सचिन आधार पाटील",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.caf81b3660a2df77",
+      "entity_type": "official_directory_entry",
+      "name": "State GST ऑफीस, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "State GST ऑफीस, रत्नागिरी",
+          "श्री. विकास पवार",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.14685ce274ddb2a7",
+      "entity_type": "official_directory_entry",
+      "name": "निरीक्षक, केद्रीय वस्तू कर/सेवा कर Central GST",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "निरीक्षक, केद्रीय वस्तू कर/सेवा कर Central GST",
+          "श्री. अ.जि.सारंग",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.97c0fdc59eb02638",
+      "entity_type": "official_directory_entry",
+      "name": "उपसंचालक, औद्योगिक सुरक्षा व आरोग्य",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपसंचालक, औद्योगिक सुरक्षा व आरोग्य",
+          "श्री. प्र.रा. भिंताडे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.f08b6cc88b9e76be",
+      "entity_type": "official_directory_entry",
+      "name": "अधीक्षक अभियंता, सार्वजनिक बांधकाम, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "अधीक्षक अभियंता, सार्वजनिक बांधकाम, रत्नागिरी",
+          "श्री. मिलींद कुलकर्णी",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.ecb568a181836246",
+      "entity_type": "official_directory_entry",
+      "name": "कार्यकारी अभियंता, सार्वजनिक बांधकाम (उत्तर) रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "कार्यकारी अभियंता, सार्वजनिक बांधकाम (उत्तर) रत्नागिरी",
+          "श्री. ओटवणेकर",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.2f2870d2e4040593",
+      "entity_type": "official_directory_entry",
+      "name": "कार्यकारी अभियंता, सार्वजनिक बांधकाम, चिपळूण",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "कार्यकारी अभियंता, सार्वजनिक बांधकाम, चिपळूण",
+          "श्री. जगदिश सुखदेवे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.6ab7700cdb3891d2",
+      "entity_type": "official_directory_entry",
+      "name": "कार्यकारी अभियंता,राष्ट्रीय महामार्ग (परशुराम घाट ते खारेपाटण)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "कार्यकारी अभियंता,राष्ट्रीय महामार्ग (परशुराम घाट ते खारेपाटण)",
+          "श्रीम. अनामिका जाधव",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.6afb7d7f9ee729a5",
+      "entity_type": "official_directory_entry",
+      "name": "कार्यकारी अभियंता, राष्ट्रीय महामार्ग, पेण (कशेडी ते परशुराम घाट)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "कार्यकारी अभियंता, राष्ट्रीय महामार्ग, पेण (कशेडी ते परशुराम घाट)",
+          "श्री. शैलेंद्र गुंड",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.d07759f1022fcd1a",
+      "entity_type": "official_directory_entry",
+      "name": "प्रकल्प संचालक,राष्ट्रीय महामार्ग,166 मिऱ्या- नागपूर हायवे, कोल्हापूर",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "प्रकल्प संचालक,राष्ट्रीय महामार्ग,166 मिऱ्या- नागपूर हायवे, कोल्हापूर",
+          "श्री. संजय कदम",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.c87e91f066e338ce",
+      "entity_type": "official_directory_entry",
+      "name": "उपअभियंता, राष्ट्रीय महामार्ग,166 मिऱ्या- नागपूर हायवे, कोल्हापूर",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपअभियंता, राष्ट्रीय महामार्ग,166 मिऱ्या- नागपूर हायवे, कोल्हापूर",
+          "श्री.पाटील",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.1265f590f4fd2722",
+      "entity_type": "official_directory_entry",
+      "name": "कार्यकारी अभियंता, प्रधानमंत्री ग्रामसडक योजना Pmksy",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "कार्यकारी अभियंता, प्रधानमंत्री ग्रामसडक योजना Pmksy",
+          "श्री. मधुकर सुळ",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.0c5ccf15a9e0df42",
+      "entity_type": "official_directory_entry",
+      "name": "उपअभियंता, विद्युत विभाग, सा.बां.",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "उपअभियंता, विद्युत विभाग, सा.बां.",
+          "श्री. तेजस म्हसुरकर",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.0368ee0d51220da1",
+      "entity_type": "official_directory_entry",
+      "name": "अधीक्षक अभियंता, पाटबंधारे विभाग, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "अधीक्षक अभियंता, पाटबंधारे विभाग, रत्नागिरी",
+          "श्री. महेश सुर्वे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.ccd10f4c42bd8cb3",
+      "entity_type": "official_directory_entry",
+      "name": "कार्यकारी अभियंता, पाटबंधारे विभाग, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "कार्यकारी अभियंता, पाटबंधारे विभाग, रत्नागिरी",
+          "श्री. गणेश सलगर",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.db762b1f17f6b7f3",
+      "entity_type": "official_directory_entry",
+      "name": "कार्यकारी अभियंता, पाटबंधारे प्रकल्प बांधकाम विभाग, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "कार्यकारी अभियंता, पाटबंधारे प्रकल्प बांधकाम विभाग, रत्नागिरी",
+          "श्री. विवेक सोनार",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.9c82595eefc68d59",
+      "entity_type": "official_directory_entry",
+      "name": "कार्यकारी अभियंता, पाटबंधारे प्रकल्प बांधकाम विभाग, चिपळूण",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "कार्यकारी अभियंता, पाटबंधारे प्रकल्प बांधकाम विभाग, चिपळूण",
+          "श्री. पी.डी.जाधव",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.8368442c02a1762e",
+      "entity_type": "official_directory_entry",
+      "name": "कार्यकारी अभियंता, जिल्हा जलसंधारण अधिकारी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "कार्यकारी अभियंता, जिल्हा जलसंधारण अधिकारी",
+          "श्री. धनंजय साहुत्रे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.c216d3b85115f12f",
+      "entity_type": "official_directory_entry",
+      "name": "अधिक्षक अभियंता (रत्नागिरी मंडळ)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "अधिक्षक अभियंता (रत्नागिरी मंडळ)",
+          "श्री. सुनिल माने",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.c63265cc469df572",
+      "entity_type": "official_directory_entry",
+      "name": "कार्यकारी अभियंता, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "कार्यकारी अभियंता, रत्नागिरी",
+          "श्री. पलसुले – देसाई",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.036ed686e7cfbd31",
+      "entity_type": "official_directory_entry",
+      "name": "प्रादेशिक अधिकारी, महाराष्ट्र औद्योगिक विकास महामंडळ",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "प्रादेशिक अधिकारी, महाराष्ट्र औद्योगिक विकास महामंडळ",
+          "श्रीम. वंदना खरमाळे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.a959825c6fff1a88",
+      "entity_type": "official_directory_entry",
+      "name": "प्रादेशिक अधिकारी, मेरीटाईम बोर्ड, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "प्रादेशिक अधिकारी, मेरीटाईम बोर्ड, रत्नागिरी",
+          "श्री. संदीप भुजबळ",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.47f1e7c71e1986f4",
+      "entity_type": "official_directory_entry",
+      "name": "कार्यकारी अभियंता, मेरीटाईम बोर्ड रत्नागिरी.",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "कार्यकारी अभियंता, मेरीटाईम बोर्ड रत्नागिरी.",
+          "श्री.मेटकर",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.59022f491fe6e5a9",
+      "entity_type": "official_directory_entry",
+      "name": "कार्यकारी अभियंता, महाराष्ट्र जिवन प्राधिकरण रत्नागिरी (MJP)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "कार्यकारी अभियंता, महाराष्ट्र जिवन प्राधिकरण रत्नागिरी (MJP)",
+          "श्री. प्रसाद सुर्वे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.5bc36c3945fed428",
+      "entity_type": "official_directory_entry",
+      "name": "कार्यकारी अभियंता, ग्रामसडक योजना, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "कार्यकारी अभियंता, ग्रामसडक योजना, रत्नागिरी",
+          "श्री.मधुकर सूळ",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.6d838e5c8857ac7a",
+      "entity_type": "official_directory_entry",
+      "name": "कार्यकारी अभियंता, पतन विभाग, रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "कार्यकारी अभियंता, पतन विभाग, रत्नागिरी",
+          "श्री. प्रविण जाधव",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.25bc651ecbac283e",
+      "entity_type": "official_directory_entry",
+      "name": "कार्यकारी अभियंता, पणन विभाग रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "कार्यकारी अभियंता, पणन विभाग रत्नागिरी",
+          "श्री. मिलींद जोशी",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.35a9b8ff21df330d",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा शल्य चिकित्सक रत्नागिरी (Civil Surgeon)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा शल्य चिकित्सक रत्नागिरी (Civil Surgeon)",
+          "डॉ. भास्कर जगताप",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.40f429db6a443ec0",
+      "entity_type": "official_directory_entry",
+      "name": "अधिष्ठाता, शासकीय महाविद्यालय व रुग्णालय, रत्नागिरी (Dean)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "अधिष्ठाता, शासकीय महाविद्यालय व रुग्णालय, रत्नागिरी (Dean)",
+          "डॉ. जयप्रकाश रामानंद",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.4fc9c287e8d39977",
+      "entity_type": "official_directory_entry",
+      "name": "प्रादेशिक मनोरुग्णालय (Mental Hospital)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "प्रादेशिक मनोरुग्णालय (Mental Hospital)",
+          "डॉ.संघमित्रा फुले",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.cfeebccaf161d327",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा हिवताप अधिकारी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा हिवताप अधिकारी",
+          "डॉ.संतोष यादव",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.71f5fa3087401a98",
+      "entity_type": "official_directory_entry",
+      "name": "जिल्हा क्षयरोग अधिकारी (T.B. office)",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "जिल्हा क्षयरोग अधिकारी (T.B. office)",
+          "डॉ.महेंद्र गावडे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.7af1ec7eb94db34a",
+      "entity_type": "official_directory_entry",
+      "name": "सहाय्यक संचालक, कुष्ठरोग विभाग",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "सहाय्यक संचालक, कुष्ठरोग विभाग",
+          "डॉ. विवेकानंद बिराजदार",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.2fb9a86ccab740fd",
+      "entity_type": "official_directory_entry",
+      "name": "मुख्याधिकारी राजापूर",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "मुख्याधिकारी राजापूर",
+          "श्री. तुषार बाबर",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.14d23c179f0c64c0",
+      "entity_type": "official_directory_entry",
+      "name": "मुख्याधिकारी रत्नागिरी",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "मुख्याधिकारी रत्नागिरी",
+          "श्री. वैभव गारवे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.74aaa316213c8407",
+      "entity_type": "official_directory_entry",
+      "name": "मुख्याधिकारी चिपळूण",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "मुख्याधिकारी चिपळूण",
+          "श्री. विशाल भोसले",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.0125ee3755d9f7cc",
+      "entity_type": "official_directory_entry",
+      "name": "मुख्याधिकारी खेड",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "मुख्याधिकारी खेड",
+          "श्री. महादेव रोडगे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.a8b0af4e3084a8d2",
+      "entity_type": "official_directory_entry",
+      "name": "मुख्याधिकारी दापोली",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "मुख्याधिकारी दापोली",
+          "प्रभारी श्री. महादेव रोडगे",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.aa32010abb232188",
+      "entity_type": "official_directory_entry",
+      "name": "मुख्याधिकारी गुहागर",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "मुख्याधिकारी गुहागर",
+          "श्री.स्वप्न‍िल चव्हाण",
+          ""
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.edf7da07460599d9",
+      "entity_type": "official_directory_entry",
+      "name": "मुख्याधिकारी देवरुख ता.संगमेश्वर",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "मुख्याधिकारी देवरुख ता.संगमेश्वर",
+          "प्र. श्री. विशाल भोसले",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.d576db69435dc5e6",
+      "entity_type": "official_directory_entry",
+      "name": "मुख्याधिकारी लांजा",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "मुख्याधिकारी लांजा",
+          "प्र. श्री. तुषार बाबर",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    },
+    {
+      "record_id": "ratnagiri.ratnagiri_office_holder_information.f894e3803168aff2",
+      "entity_type": "official_directory_entry",
+      "name": "मुख्याधिकारी मंडणगड",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "district_administration",
+      "details": {
+        "page_title": "Office Holder Information",
+        "headers": [
+          "कार्यालयाचे नाव",
+          "अधिकाऱ्याचे नाव",
+          "मोबाईल नं."
+        ],
+        "values": [
+          "मुख्याधिकारी मंडणगड",
+          "श्री. अभिजीत कुंभार",
+          "मोबाईल क्रमांक गोपनीयतेसाठी वगळला"
+        ],
+        "language": "as_published"
+      },
+      "source": {
+        "source_name": "District Collector and District Magistrate, Ratnagiri",
+        "source_url": "https://ratnagiri.gov.in/en/office-holder-en/"
+      },
+      "fetched_at": "2026-11-26T02:29:28+00:00",
+      "verified_at": "2026-11-27T14:46:14+00:00"
+    }
+  ]
+}
