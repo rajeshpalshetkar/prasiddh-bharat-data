@@ -1,11 +1,11 @@
 {
   "project": "Prasiddh Bharat",
   "dataset": "ratnagiri_approved_public_directory",
-  "generated_at": "2026-11-27T15:08:32Z",
+  "generated_at": "2026-11-28T03:02:28Z",
   "district": "Ratnagiri",
   "state": "Maharashtra",
   "country": "IN",
-  "record_count": 168,
+  "record_count": 186,
   "review_status": "approved_only",
   "records": [
     {
@@ -5550,6 +5550,600 @@
       },
       "fetched_at": "2026-11-26T02:29:28+00:00",
       "verified_at": "2026-11-27T14:46:14+00:00",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.alore_shirgav_police_station",
+      "entity_type": "organization",
+      "name": "Alore-Shirgav Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Alore-Shirgav Police Station",
+          "Police Station",
+          "02355-230033"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.bankot_police_station",
+      "entity_type": "organization",
+      "name": "Bankot Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Bankot Police Station",
+          "Police Station",
+          "02350-220300"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.chiplun_police_station",
+      "entity_type": "organization",
+      "name": "Chiplun Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Chiplun Police Station",
+          "Police Station",
+          "02355-252333"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.dabhol_police_station",
+      "entity_type": "organization",
+      "name": "Dabhol Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Dabhol Police Station",
+          "Police Station",
+          "02358-248722"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.dapoli_police_station",
+      "entity_type": "organization",
+      "name": "Dapoli Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Dapoli Police Station",
+          "Police Station",
+          "02358-282033"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.devrukh_police_station",
+      "entity_type": "organization",
+      "name": "Devrukh Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Devrukh Police Station",
+          "Police Station",
+          "02354-260033"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.guhagar_police_station",
+      "entity_type": "organization",
+      "name": "Guhagar Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Guhagar Police Station",
+          "Police Station",
+          "02339-240233"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.jaigad_police_station",
+      "entity_type": "organization",
+      "name": "Jaigad Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Jaigad Police Station",
+          "Police Station",
+          "02357-242233"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.khed_police_station",
+      "entity_type": "organization",
+      "name": "Khed Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Khed Police Station",
+          "Police Station",
+          "02356-263333"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.lanja_police_station",
+      "entity_type": "organization",
+      "name": "Lanja Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Lanja Police Station",
+          "Police Station",
+          "02352-230033"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.mandangad_police_station",
+      "entity_type": "organization",
+      "name": "Mandangad Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Mandangad Police Station",
+          "Police Station",
+          "02350-225233"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/page/2/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.nate_police_station",
+      "entity_type": "organization",
+      "name": "Nate Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Nate Police Station",
+          "Police Station",
+          "02353-225533"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/page/2/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.purnagad_police_station",
+      "entity_type": "organization",
+      "name": "Purnagad Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Purnagad Police Station",
+          "Police Station",
+          "02352-237333"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/page/2/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.rajapur_police_station",
+      "entity_type": "organization",
+      "name": "Rajapur Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Rajapur Police Station",
+          "Police Station",
+          "02353-222033"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/page/2/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.ratnagiri_city_police_station",
+      "entity_type": "organization",
+      "name": "Ratnagiri City Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Ratnagiri City Police Station",
+          "Police Station",
+          "02352-222333"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/page/2/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.ratnagiri_rural_police_station",
+      "entity_type": "organization",
+      "name": "Ratnagiri Rural Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Ratnagiri Rural Police Station",
+          "Police Station",
+          "02352-230133"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/page/2/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.sangameshwar_police_station",
+      "entity_type": "organization",
+      "name": "Sangameshwar Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Sangameshwar Police Station",
+          "Police Station",
+          "02352-272033"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/page/2/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_station.savarde_police_station",
+      "entity_type": "organization",
+      "name": "Savarde Police Station",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "locality": null
+      },
+      "category": "police_station",
+      "details": {
+        "page_title": "Police Stations",
+        "headers": [
+          "Name",
+          "Designation",
+          "Phone"
+        ],
+        "values": [
+          "Savarde Police Station",
+          "Police Station",
+          "02355-264033"
+        ],
+        "language": "en"
+      },
+      "source": {
+        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
+        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/page/2/"
+      },
+      "fetched_at": "2026-11-28T03:02:28Z",
+      "verified_at": "2026-11-28T03:02:28Z",
       "review_status": "approved"
     }
   ]
