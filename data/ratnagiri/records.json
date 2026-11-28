@@ -1,11 +1,11 @@
 {
   "project": "Prasiddh Bharat",
   "dataset": "ratnagiri_approved_public_directory",
-  "generated_at": "2026-11-28T03:02:28Z",
+  "generated_at": "2026-11-28T03:09:58+05:30",
   "district": "Ratnagiri",
   "state": "Maharashtra",
   "country": "IN",
-  "record_count": 186,
+  "record_count": 187,
   "review_status": "approved_only",
   "records": [
     {
@@ -5762,25 +5762,35 @@
       },
       "category": "police_station",
       "details": {
-        "page_title": "Police Stations",
+        "page_title": "Police Station - Guhagar",
         "headers": [
           "Name",
           "Designation",
-          "Phone"
+          "Email",
+          "Mobile",
+          "Alternative",
+          "Division",
+          "City",
+          "District"
         ],
         "values": [
           "Guhagar Police Station",
           "Police Station",
-          "02339-240233"
+          "guhagarps.ratna@mahapolice.gov.in",
+          "9684708309",
+          "02359-240233",
+          "चिपळूण",
+          "गुहागर",
+          "रत्नागिरी"
         ],
-        "language": "en"
+        "language": "as_displayed_on_official_police_website"
       },
       "source": {
-        "source_name": "District Ratnagiri, Government of Maharashtra - Police Stations",
-        "source_url": "https://ratnagiri.gov.in/en/public-utility-category/police-stations/"
+        "source_name": "Ratnagiri Police - Police Station detail page (ID 47)",
+        "source_url": "https://ratnagiripolice.gov.in/police-station/?id=47"
       },
-      "fetched_at": "2026-11-28T03:02:28Z",
-      "verified_at": "2026-11-28T03:02:28Z",
+      "fetched_at": "2026-11-28T03:09:58+05:30",
+      "verified_at": "2026-11-28T03:09:58+05:30",
       "review_status": "approved"
     },
     {
@@ -6144,6 +6154,52 @@
       },
       "fetched_at": "2026-11-28T03:02:28Z",
       "verified_at": "2026-11-28T03:02:28Z",
+      "review_status": "approved"
+    },
+    {
+      "record_id": "ratnagiri.police_inspector.guhagar.pravin_ranadive",
+      "entity_type": "police_inspector",
+      "name": "प्रविण रणादिवे",
+      "jurisdiction": {
+        "country": "IN",
+        "state": "Maharashtra",
+        "district": "Ratnagiri",
+        "taluka": "गुहागर",
+        "locality": "गुहागर"
+      },
+      "category": "police_inspector",
+      "details": {
+        "page_title": "Police Station - Guhagar",
+        "headers": [
+          "Name",
+          "Designation",
+          "Police Station",
+          "Email",
+          "Mobile",
+          "Alternative",
+          "Division",
+          "City",
+          "District"
+        ],
+        "values": [
+          "प्रविण रणादिवे",
+          "पोलीस निरीक्षक (गुहागर)",
+          "गुहागर पोलीस स्टेशन",
+          "guhagarps.ratna@mahapolice.gov.in",
+          "9684708309",
+          "02359-240233",
+          "चिपळूण",
+          "गुहागर",
+          "रत्नागिरी"
+        ],
+        "language": "mr"
+      },
+      "source": {
+        "source_name": "Ratnagiri Police - Police Station detail page (ID 47)",
+        "source_url": "https://ratnagiripolice.gov.in/police-station/?id=47"
+      },
+      "fetched_at": "2026-11-28T03:09:58+05:30",
+      "verified_at": "2026-11-28T03:09:58+05:30",
       "review_status": "approved"
     }
   ]
